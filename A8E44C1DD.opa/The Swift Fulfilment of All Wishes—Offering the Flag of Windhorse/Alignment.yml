@@ -1,0 +1,64 @@
+segment_sources:
+  P87C703CB:
+    type: origin_type
+    relation: translation
+    language: en
+  P7792A394:
+    type: origin_type
+    relation: translation
+    language: de
+  PF46DF7BA:
+    type: origin_type
+    relation: translation
+    language: es
+  PB47BB163:
+    type: origin_type
+    relation: translation
+    language: fr
+  PE8A9CB76:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  25f70f9fa77c4f549defc8d1cd785b64:
+    P87C703CB: 1e8938294d1e4b80b307ba9484f90ae9
+    P7792A394: b83e4088ad05424eaf6c50a780137ffc
+    PF46DF7BA: bfcd7cdca59742f890a66dedda4b8e90
+    PB47BB163: c50bba1e72044289a8a991eaa26f2dc9
+    PE8A9CB76: dc4744acbd024f458f7170abf476ff4b
+  c82624c7bc184b458ce669f3a8c3c636:
+    P87C703CB: 25f4b713cd044763824d99136e5fa2b6
+    P7792A394: 29fa6a69ca654180bef0ee50e79bd295
+    PF46DF7BA: 60291cf129a74688abab401c2a32fb56
+    PB47BB163: ef1c1d203d3e4adfaacd4ed26979a41f
+    PE8A9CB76: cd1edc49359b4b4b87ef840b2290924f
+  44cd6f8a25be473e803f3b7a41a2942b:
+    P87C703CB: e552238db7d746338a12ebad032b9312
+    P7792A394: d6374b9916154d98bcb37bc7fcbc5c16
+    PF46DF7BA: a2785636aeda4613a1b6c1dd5293ab6d
+    PB47BB163: 00b7c9014aaf4bfb9e5be4af3042eeef
+    PE8A9CB76: c389a614ce214030afe87e458fad1ffd
+  fc7f7689cebe465c8794187db783d868:
+    P87C703CB: 77e8922d9ad34d99ac4213487d0e232e
+    P7792A394: ecd3e596737e4e05b90aee2a77d3d6f5
+    PF46DF7BA: 8959174927aa48c48553d64325c428f7
+    PB47BB163: c637c9d899c24b54b5a516b21a380ef3
+    PE8A9CB76: aa225fed94cc4057a0c98d8fa7e7dbfb
+  1ac5fe04b39f4d86bbf71a5f6b9af2d6:
+    P87C703CB: 29d4293704d44f378097303303d32deb
+    P7792A394: 463548e80c274cf5b29bfeb13b00ebe9
+    PF46DF7BA: 7b93543af32b4d0488a9a177fcd26fb2
+    PB47BB163: 54142823df70425f826f3a6449c0ed1b
+    PE8A9CB76: b2691d0e69324abfa413962c71994594
+  89f52878f5bd4fad8e2f5b13c9508a4f:
+    P87C703CB: 666ec8fa6bb94cb59b3c7f942fd6835b
+    P7792A394: 493f3cb59f234cb6836d711f7addea70
+    PF46DF7BA: 793aa0c851374d10ab30ffae09666441
+    PB47BB163: 8b02f9fb03124c82a953524ce3187392
+    PE8A9CB76: 078b8f36d4ee44bc8826376aba4a8ddd
+  e3101f21f0f34abfad04f9942629d7b5:
+    P87C703CB: ee0d9a1dfaed40a388da8568a89f9364
+    P7792A394: 54e46a3fc60a446f87cbb269dee3b1d4
+    PF46DF7BA: 57673dcc10104e8aae8b82796cb7ac1b
+    PB47BB163: 40fe50abe0634f3e969952edec64cda7
+    PE8A9CB76: e7b465f62640408ea057153e5c8ac62b

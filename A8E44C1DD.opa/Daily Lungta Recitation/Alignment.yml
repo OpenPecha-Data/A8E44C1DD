@@ -1,0 +1,22 @@
+segment_sources:
+  P87C703CB:
+    type: origin_type
+    relation: translation
+    language: en
+  PE8A9CB76:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  f5207dc668854c9fb1ce004146138ad6:
+    P87C703CB: 40d7367916c34b639b9e4296596ae4da
+    PE8A9CB76: 0ff069e5688445ffa92f77c6fc4a839f
+  a979f5916e3943a5881999bca8471314:
+    P87C703CB: 718fd4a2e4f942c7a415bedcaacb883b
+    PE8A9CB76: e48862594aaa4ff9ade9f04c1f7f1c91
+  28aa278e458146deba1d631c0dc2ed5f:
+    P87C703CB: 76726b552ffc44d9bae666f67981dac5
+    PE8A9CB76: a662eb260b764d56b741558ed8b7f358
+  91d5b0eb5d344275a3cd85f536ef7e97:
+    P87C703CB: 514a88a35330480da7f74cb94e70bcf4
+    PE8A9CB76: e85299a9974349348d923396c886be4d
